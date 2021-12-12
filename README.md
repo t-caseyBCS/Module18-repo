@@ -1,5 +1,4 @@
-# Building a Blockchain Ledger - Using PyChain and Streamlit
-
+# Building a Blockchain Ledger in Python - Using Streamlit for rapid web app
 
 ### **TO RUN:**
 navigate to the folder and in the terminal run the Streamlit application by using:
