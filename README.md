@@ -5,11 +5,11 @@
 navigate to the folder and in the terminal run the Streamlit application by using:
 > `streamlit run pychain.py`.
 
-![terminal](images/terminal.png)
+![terminal](https://github.com/t-caseyBCS/Module18-repo/tree/main/images/terminal.png)
 
 Once the program runs, it will open a new URL tab on your default web browser
 
-![pychain-genblock](images/pychain-genblock.png)
+![pychain-genblock](https://github.com/t-caseyBCS/Module18-repo/tree/main/images/pychain-genblock.png)
 
 ---
 ### **TO USE:**
